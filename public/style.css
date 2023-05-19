@@ -1,0 +1,55 @@
+.heading{
+    text-align: center;
+    margin: 10px;
+    background: aqua;
+
+}
+
+.paragraph{
+    background: antiquewhite;
+    text-align: center;
+    font-size: larger;
+    color: blue;
+    font-family: cursive;
+}
+.formm{
+    text-align: center;
+   margin-top: 80px;
+   text-align: center;
+   margin-top: 80px;
+   background: antiquewhite;
+   margin: 100px;
+   padding: 100px;
+}
+
+button{
+    background: burlywood;
+    padding: 8px 20px;
+    margin-top: 10px;
+}
+
+input{
+    
+    margin-top: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    display: block;
+    margin-bottom: 10px;
+    font-size: larger;
+    font-family: cursive;
+
+    margin: 10px;
+  }
+  
+  .top{
+    background: antiquewhite;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+
+  body{
+    
+  }
